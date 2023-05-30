@@ -1,4 +1,4 @@
-# Getting Started for creating Zoho Extensions using React
+# Getting Started for creating Zoho CRM Extensions using React JS and Tailwind CSS
 
 ## Available Scripts
 
