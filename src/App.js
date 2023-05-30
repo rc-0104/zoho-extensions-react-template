@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import "./App.css";
-import { getCurrentUserInfos, initializeWidget } from "./services/crm.services";
 import { ZOHO } from './vendor/ZohoWidgetSdk';
 
 function App() {
